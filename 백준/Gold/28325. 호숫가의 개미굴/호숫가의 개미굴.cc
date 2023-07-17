@@ -33,7 +33,7 @@ int main() {
 
 	}
 	if (aaaa) {
-		ans += (st + 1) / 2;
+		ans += (st) / 2;
 	}
 	else ans += (st + now + 1) / 2;
 
